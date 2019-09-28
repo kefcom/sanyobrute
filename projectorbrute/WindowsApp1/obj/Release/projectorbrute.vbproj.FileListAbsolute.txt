@@ -1,0 +1,11 @@
+C:\Users\kefco\source\repos\projectorbrute\WindowsApp1\bin\Release\projectorbrute.exe.config
+C:\Users\kefco\source\repos\projectorbrute\WindowsApp1\bin\Release\projectorbrute.exe
+C:\Users\kefco\source\repos\projectorbrute\WindowsApp1\bin\Release\projectorbrute.pdb
+C:\Users\kefco\source\repos\projectorbrute\WindowsApp1\bin\Release\projectorbrute.xml
+C:\Users\kefco\source\repos\projectorbrute\WindowsApp1\obj\Release\projectorbrute.Form1.resources
+C:\Users\kefco\source\repos\projectorbrute\WindowsApp1\obj\Release\projectorbrute.Resources.resources
+C:\Users\kefco\source\repos\projectorbrute\WindowsApp1\obj\Release\projectorbrute.vbproj.GenerateResource.cache
+C:\Users\kefco\source\repos\projectorbrute\WindowsApp1\obj\Release\projectorbrute.vbproj.CoreCompileInputs.cache
+C:\Users\kefco\source\repos\projectorbrute\WindowsApp1\obj\Release\projectorbrute.exe
+C:\Users\kefco\source\repos\projectorbrute\WindowsApp1\obj\Release\projectorbrute.xml
+C:\Users\kefco\source\repos\projectorbrute\WindowsApp1\obj\Release\projectorbrute.pdb
