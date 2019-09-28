@@ -5,6 +5,8 @@ Made in vb.net
 # Making connection
 Use a USB to serial cable and wire to the projector's serivce port as shown in this scheme:
 ![wiring schematic](https://github.com/kefcom/sanyobrute/blob/master/wiring.png "Wiring schematic")
+[source](http://www.herngwei.com/download/sanyo/RS232/RS232_XU115.pdf)
+
 ![pinouts](https://github.com/kefcom/sanyobrute/blob/master/pinouts.png "Pinouts")
 
 # using the software
