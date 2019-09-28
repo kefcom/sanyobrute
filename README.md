@@ -8,6 +8,8 @@ Use a USB to serial cable and wire to the projector's serivce port as shown in t
 [source](http://www.herngwei.com/download/sanyo/RS232/RS232_XU115.pdf)
 
 ![pinouts](https://github.com/kefcom/sanyobrute/blob/master/pinouts.png "Pinouts")
+[source](https://studylib.net/doc/18269329/eight-pin-mini---din-connector-pin--outs)
+
 
 # using the software
 - Start the program
